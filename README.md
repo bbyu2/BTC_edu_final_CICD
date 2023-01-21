@@ -1,11 +1,14 @@
 ## ABCbit CI/CD
+
+***
+
 ### Github, Jenkins, ArgoCD를 활용한 Test, Production 파이프라인으로 분리 운영
 
 ***
 
 #### TEST 파이프라인
 ```
-변경된 코드를 DEV 브랜치로 Push, Test파이프라인으로 배포
+변경된 코드를 개발팀 레포지토리의 DEV 브랜치로 Push, Test파이프라인으로 배포
 ```
 ![image](https://user-images.githubusercontent.com/84059211/212466737-475f9f3f-ab44-4284-98a9-7e23d2c7a803.png)
 
